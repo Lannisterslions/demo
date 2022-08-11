@@ -1,1 +1,1 @@
-[{"resource": {"aws_emr_cluster": {"Test": {"name": "test_cluster", "release_label": "emr-5.16.0", "service_role": "EMR_ServiceRole"}}}}]
+[{"resource": {"aws_emr_cluster": {"Test": {"name": "check_cluster", "release_label": "emr-4.16.0", "service_role": "EMR_ServiceRole"}}}}]
